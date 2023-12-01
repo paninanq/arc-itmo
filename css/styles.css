@@ -1,9 +1,10 @@
 body {
 	color: #fff;
-	font: 14px Tahoma, sans-serif;
+	font: 18px Tahoma, sans-serif;
 	background: #000 ;
-	border-top: 10px solid #7e7e7e;
+	border-top: 12px solid #7e7e7e;
 	margin: 0;
+	text-align: justify;
 }
 
 img {
